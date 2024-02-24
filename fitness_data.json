@@ -1,0 +1,33 @@
+{
+    "biker": {
+      "name": "John Doe",
+      "age": 30,
+      "gender": "Male",
+      "trail": "Forest Trail",
+      "bike_type": "Mountain Bike",
+      "lap_data": [
+        {
+          "lap_number": 1,
+          "distance_km": 5.2,
+          "lap_time_minutes": 12.3,
+          "calories_burned": 220
+        },
+        {
+          "lap_number": 2,
+          "distance_km": 5.2,
+          "lap_time_minutes": 11.8,
+          "calories_burned": 215
+        },
+        {
+          "lap_number": 3,
+          "distance_km": 5.2,
+          "lap_time_minutes": 12.0,
+          "calories_burned": 218
+        }
+      ],
+      "total_distance_km": 15.6,
+      "total_time_minutes": 36.1,
+      "total_calories_burned": 653
+    }
+  }
+  
